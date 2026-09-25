@@ -44,3 +44,7 @@ My work focuses on in-depth manual analysis to uncover complex business logic vu
 🐞 **[Intigrity](https://app.intigriti.com/profile/4ny0n3)**
 🏆 **[Code4rena](https://code4rena.com/4ny0n3)**
 🐦 **[X(Twitter)](https://x.com/_4ny0n3)**
+
+
+[![Credly Badge](./assets/b02.png)](https://www.credly.com/badges/7c74fdb3-9619-4b46-ad6f-e8f71e3f115f/public_url)
+[![Credly Badge](./assets/b01.png)](https://www.credly.com/badges/aad01a5d-7c64-4784-9dde-6ec347916985/public_url)
